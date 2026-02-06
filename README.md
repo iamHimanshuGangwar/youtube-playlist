@@ -85,6 +85,3 @@ yarn preview
 - Add playlist export/import
 - Add OAuth flow for authenticated YouTube playlist creation
 
-## License
-MIT
-
