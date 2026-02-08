@@ -48,9 +48,7 @@ function App() {
       setLoading(false)
     })
   }
-
-
-  // 🔁 Auto Search (Debounce)
+// 🔁 Auto Search (Debounce)
   useEffect(() => {
 
     if (input.trim() === "") return
