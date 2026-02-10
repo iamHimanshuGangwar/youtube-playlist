@@ -94,7 +94,7 @@ function App() {
 
         <div className="row p-3">
 
-          {/* ▶️ Left: Video Player */}
+          {/* Left: Video Player */}
           <div className="col-md-8">
 
             {
@@ -124,7 +124,7 @@ function App() {
           </div>
 
 
-          {/* 📋 Right: Video List */}
+          {/*  Right: Video List */}
           <div className="col-md-4">
 
             {
