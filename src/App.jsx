@@ -35,7 +35,7 @@ function App() {
 
       setArr(items)
 
-      // ▶️ Auto play first video
+      // Auto play first video
       if (items.length > 0) {
         setSelectedVideo(items[0].id.videoId)
         setSelectedTitle(items[0].snippet.title)
@@ -48,7 +48,7 @@ function App() {
       setLoading(false)
     })
   }
-// 🔁 Auto Search (Debounce)
+// Auto Search (Debounce)
   useEffect(() => {
 
     if (input.trim() === "") return
