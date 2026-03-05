@@ -67,9 +67,6 @@ function App() {
   useEffect(() => {
     getExternalData(text)
   }, [])
-
-
-
   return (
     <>
       <div className="container-fluid bg-light min-vh-100">
