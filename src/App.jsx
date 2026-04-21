@@ -160,7 +160,7 @@ function App() {
                       className="rounded"
                       alt={a.snippet.title}
                     />
-
+                    
                     {/* Info */}
                     <div className="ms-2">
 
