@@ -1,4 +1,4 @@
-# App3 — YouTube Playlist Builder (React + YouTube Data API)
+# App — YouTube Playlist Builder (React + YouTube Data API)
 
 A small React application that lets you search YouTube and build a playlist using the YouTube Data API. Built with Vite + React.
 
