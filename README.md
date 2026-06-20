@@ -84,5 +84,3 @@ yarn preview
 - Add server-side endpoint to keep the API key secret
 - Add playlist export/import
 - Add OAuth flow for authenticated YouTube playlist creation
-
-
